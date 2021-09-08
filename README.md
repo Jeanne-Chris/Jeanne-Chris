@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeanne-Chris
-- 👀 I’m interested in ... Data Analytics with Python
-- 🌱 I’m currently learning ... Data Science in full Python application
-- 💞️ I’m looking to collaborate on ... Data analytics
+- 👀 I’m interested in ... Data Analytics with Python, Web Development, Python Desktop Application
+- 🌱 I’m currently learning ... Data Science in full Python application, Tableau, and Power BI
+- 💞️ I’m looking to collaborate on ... Data analytics, Data Science, Python project development
 - 📫 How to reach me ... 
 
 <!---
